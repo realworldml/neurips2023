@@ -8,9 +8,9 @@ sitemap: false
 
 Important Dates
 ----------------
-* **Submission system opens**: April 20th 2023 11:59 PM (AoE time)  [Submission page](https://todo.com){: .btn .btn--warning .btn--large .align-right}
-* **Submission deadline**: June 3rd 2023 11:59 PM (AoE time)
-* **Author notification**: June 13th 2023  11:59 PM (AoE time)
+* **Submission system opens**: 1 June 2023 11:59 PM (AoE time)  [Submission page](https://todo.com){: .btn .btn--warning .btn--large .align-right}
+* **Submission deadline**: 29 September 2023 11:59 PM (AoE time)
+* **Author notification**: 27 October 2023  11:59 PM (AoE time)
 * **Lightning Talk deadline (spotlight talks)**: TBA
 * **Camera ready date**: TBA
 * **Workshop day**: TBA
