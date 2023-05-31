@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "RealML @ ICML2023"
+title                    : "RealML @ NeurIPS2023"
 title_separator          : "-"
 name                     : &name "RealML"
 description              : &description "Real World ML"
-url                      : https://realworldml.github.io/icml2023 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://realworldml.github.io/neurips2023 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "realworldml/icml2023"
+repository               : "realworldml/neurips2023"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "RealML @ ICML2023"
+  name             : "RealML @ NeurIPS2023"
   avatar           : "profile.png"
   bio              : "Workshop on Real World Experiment Design and Active Learning"
   #location         : "Location"

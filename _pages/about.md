@@ -19,7 +19,7 @@ Invited Speakers
 ------
 * [Confirmed] **[Mihaela van der Schaar](https://www.vanderschaar-lab.com/)** , Cambridge University.
 * [Confirmed] **[Eytan Bakshy](https://eytan.github.io/)**, Meta Platforms, Inc.
-* [Confirmed] **[Rebecca Willett](https://willett.psd.uchicago.edu/)**,  University of Chicago.
+* [Invited] **[Rebecca Willett](https://willett.psd.uchicago.edu/)**,  University of Chicago.
 * [Confirmed] **[Anna Goldie](https://www.annagoldie.com/)**, Stanford University and Anthropic.
 * [Confirmed] **[Stefan Bauer](https://www.kth.se/profile/baue)**, KTH Stockholm.
 * [Confirmed] **[Emma Brunskill](https://cs.stanford.edu/people/ebrun/)**, Stanford University.
