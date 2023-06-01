@@ -23,7 +23,7 @@ Invited Speakers
 * [Confirmed] **[Stefan Bauer](https://www.kth.se/profile/baue)**, KTH Stockholm.
 * [Confirmed] **[Emma Brunskill](https://cs.stanford.edu/people/ebrun/)**, Stanford University.
 * [Confirmed] **[Nathan Kallus](https://nathankallus.com/)**, Cornell University and Netflix.
-* [Invited] **[Rebecca Willett](https://willett.psd.uchicago.edu/)**,  University of Chicago.
+* [Invited] **[Rianne van den Berg](https://www.microsoft.com/en-us/research/people/rvandenberg/)**, Microsoft Research Amsterdam.
 
 
 Call for Submissions & Important Dates
