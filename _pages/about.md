@@ -20,7 +20,7 @@ Invited Speakers
 * [Confirmed] **[Mihaela van der Schaar](https://www.vanderschaar-lab.com/)** , Cambridge University.
 * [Confirmed] **[Eytan Bakshy](https://eytan.github.io/)**, Meta Platforms, Inc.
 * [Confirmed] **[Anna Goldie](https://www.annagoldie.com/)**, Stanford University and Anthropic.
-* [Confirmed] **[Stefan Bauer](https://www.kth.se/profile/baue)**, KTH Stockholm.
+* [Confirmed] **[Joel Paulson](https://cbe.osu.edu/joel-paulson-laboratory-advanced-optimization-and-control)**, The Ohio State University.
 * [Confirmed] **[Emma Brunskill](https://cs.stanford.edu/people/ebrun/)**, Stanford University.
 * [Confirmed] **[Nathan Kallus](https://nathankallus.com/)**, Cornell University and Netflix.
 * [Invited] **[Rianne van den Berg](https://www.microsoft.com/en-us/research/people/rvandenberg/)**, Microsoft Research Amsterdam.
