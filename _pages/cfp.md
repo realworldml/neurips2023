@@ -26,14 +26,16 @@ We welcome submissions of 4-6 pages (excluding references) in the following (mod
 
 Technical topics of interest include (but are not limited to):
 - Large-scale and real-world experimental design
-(e.g. drug design, physics, robotics, material design, protein design, causal discovery)
-- Efficient active learning and exploration
-- High-dimensional, scalable Bayesian and bandit optimization (e.g. contextual, multi-task)
-- Sample-efficient interactive learning, hypothesis and A/B testing
-- Corrupted or indirect measurements, multi-fidelity experimentation
-- Domain-knowledge integration (e.g. from physics, chemistry, biology, etc.)
-- Safety and robustness during experimentation and of resulting designs
-- Experiment design/active learning in Reinforcement Learning
+(e.g. drug design, physics, robotics, material design, protein design, causal discovery, citizen science).
+- Efficient active learning and exploration.
+- High-dimensional, scalable Bayesian and bandit optimization (e.g. contextual, multi-task).
+- Effective off-policy evaluation and treatment-effect estimation.
+- Effective exploration in high-dimensional spaces (e.g., through use of neural networks).
+- Sample-efficient interactive learning, hypothesis, and A/B testing.
+- Corrupted/indirect measurements, multi-fidelity, and multi-objective experimentation.
+- Domain-knowledge integration (e.g., from physics, chemistry, biology, medicine).
+- Safety and robustness during experimentation and of resulting designs.
+- Experiment design/active learning in reinforcement learning.
 
 
 Best Paper award

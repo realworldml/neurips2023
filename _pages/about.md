@@ -17,7 +17,7 @@ This workshop aims to bring together researchers from academia and industry to d
 
 Invited Speakers
 ------
-* [Confirmed] **[Mihaela van der Schaar](https://www.vanderschaar-lab.com/)** , Cambridge University.
+* [Confirmed] **[Mihaela van der Schaar](https://www.vanderschaar-lab.com/)**, Cambridge University.
 * [Confirmed] **[Eytan Bakshy](https://eytan.github.io/)**, Meta Platforms, Inc.
 * [Confirmed] **[Anna Goldie](https://www.annagoldie.com/)**, Stanford University and Anthropic.
 * [Confirmed] **[Joel Paulson](https://cbe.osu.edu/joel-paulson-laboratory-advanced-optimization-and-control)**, The Ohio State University.
