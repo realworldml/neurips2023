@@ -23,7 +23,7 @@ Invited Speakers
 * [Confirmed] **[Joel Paulson](https://cbe.osu.edu/joel-paulson-laboratory-advanced-optimization-and-control)**, The Ohio State University.
 * [Confirmed] **[Emma Brunskill](https://cs.stanford.edu/people/ebrun/)**, Stanford University.
 * [Confirmed] **[Nathan Kallus](https://nathankallus.com/)**, Cornell University and Netflix.
-* [Invited] **[Rianne van den Berg](https://www.microsoft.com/en-us/research/people/rvandenberg/)**, Microsoft Research Amsterdam.
+* [Confirmed] **[Erika DeBenedictis](https://www.erikadebenedictis.com/)**, Francis Crick Institute.
 
 
 Call for Submissions & Important Dates
