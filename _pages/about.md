@@ -8,7 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-#### <center> In-Person Workshop, 15-16 December 2023 @NeurIPS</center> ####
+#### <center> In-Person Workshop, 16 December 2023 @NeurIPS</center> ####
 ------
 <p style="text-align: justify;">
 This workshop aims to bring together researchers from academia and industry to discuss major challenges, outline recent advances, and highlight future directions pertaining to novel and existing real-world experimental design and active learning problems. In addition, we aim to highlight new and emerging research opportunities for the machine learning community that arise from the evolving needs to make experimental design and active learning procedures that are theoretically and practically relevant for practical applications. Examples include protein design, causal discovery, drug design, and materials design, to name a few.
