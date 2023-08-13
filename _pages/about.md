@@ -17,25 +17,31 @@ This workshop aims to bring together researchers from academia and industry to d
 
 Invited Speakers
 ------
-* [Confirmed] **[Mihaela van der Schaar](https://www.vanderschaar-lab.com/)**, Cambridge University.
-* [Confirmed] **[Eytan Bakshy](https://eytan.github.io/)**, Meta Platforms, Inc.
-* [Confirmed] **[Anna Goldie](https://www.annagoldie.com/)**, Stanford University and Anthropic.
-* [Confirmed] **[Joel Paulson](https://cbe.osu.edu/joel-paulson-laboratory-advanced-optimization-and-control)**, The Ohio State University.
-* [Confirmed] **[Emma Brunskill](https://cs.stanford.edu/people/ebrun/)**, Stanford University.
-* [Confirmed] **[Nathan Kallus](https://nathankallus.com/)**, Cornell University and Netflix.
-* [Confirmed] **[Erika DeBenedictis](https://www.erikadebenedictis.com/)**, Francis Crick Institute.
+* **[Mihaela van der Schaar](https://www.vanderschaar-lab.com/)**, Cambridge University.
+* **[Eytan Bakshy](https://eytan.github.io/)**, Meta Platforms, Inc.
+* **[Anna Goldie](https://www.annagoldie.com/)**, Stanford University and Anthropic.
+* **[Joel Paulson](https://cbe.osu.edu/joel-paulson-laboratory-advanced-optimization-and-control)**, The Ohio State University.
+* **[Emma Brunskill](https://cs.stanford.edu/people/ebrun/)**, Stanford University.
+* **[Nathan Kallus](https://nathankallus.com/)**, Cornell University and Netflix.
+* **[Erika DeBenedictis](https://www.erikadebenedictis.com/)**, Francis Crick Institute.
 
 
 Call for Submissions & Important Dates
 ------
 Please see the [Call for papers](https://realworldml.github.io/neurips2023/cfp/) for submission instructions.
-* **Submission deadline:** 29 September 2023, 11:59 PM (AoE time)
-* **Notification of acceptance:** 27 October 2023, 11:59 PM (AoE time)
+* **Submission deadline:** 4 October 2023, 11:59 PM (AoE time)
+* **Notification of acceptance:** 25 October 2023, 11:59 PM (AoE time)
 
 **Best Student Paper Award:** A *best student paper award*, worth **1000 USD**, will be awarded to the best paper selected by a reviewing committee.
 
 
-<!--Organizers-->
-<!---------->
-
-<!--TODO-->
+Organizers
+------
+* **[Ava Amini](https://www.mit.edu/~asolei/)**, Microsoft Research.
+* **[Ilija Bogunovic](https://ilijabogunovic.com/)**, University College London.
+* **[Stefano Ermon](https://cs.stanford.edu/~ermon/)**, Stanford University.
+* **[Lalit Jain](http://lalitjain.com/)**, University of Washington.
+* **[Andreas Krause](https://las.inf.ethz.ch/krausea)**, ETH Zurich.
+* **[Mojmir Mutny](https://mojmirmutny.github.io/)**, ETH Zurich.
+* **[Willie Neiswanger](https://willieneis.github.io/)**, Stanford University.
+* **[Zi Wang](https://ziw.mit.edu/)**, Google DeepMind.
