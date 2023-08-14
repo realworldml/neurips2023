@@ -45,3 +45,5 @@ Organizers
 * **[Mojmir Mutny](https://mojmirmutny.github.io/)**, ETH Zurich.
 * **[Willie Neiswanger](https://willieneis.github.io/)**, Stanford University.
 * **[Zi Wang](https://ziw.mit.edu/)**, Google DeepMind.
+
+Please reach out to the organizers via email: realml-workshop-organizers@googlegroups.com

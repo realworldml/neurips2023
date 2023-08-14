@@ -15,6 +15,8 @@ Important Dates
 * **Camera ready deadline**: TBA
 * **Workshop day**: 16 December 2023
 
+Please reach out to the organizers via email: realml-workshop-organizers@googlegroups.com
+
 The Call
 ---------
 
