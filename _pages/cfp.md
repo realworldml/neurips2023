@@ -10,7 +10,8 @@ Important Dates
 ----------------
 * **Submission system opens**: 5 August 2023 11:59 PM (AoE time)  [Submission page](https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/ReALML){: .btn .btn--warning .btn--large .align-right}
 * **Submission deadline**: 4 October 2023 11:59 PM (AoE time)
-* **Author notification**: 25 October 2023 11:59 PM (AoE time)
+* **Reviewer deadline**: 25 October 2023 11:59 PM (AoE time)
+* **Author notification**: 26-27 October 2023 11:59 PM (AoE time)
 * **Lightning Talk deadline (spotlight talks)**: TBA
 * **Camera ready deadline**: TBA
 * **Workshop day**: 16 December 2023

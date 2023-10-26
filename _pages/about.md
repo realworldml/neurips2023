@@ -30,7 +30,7 @@ Call for Submissions & Important Dates
 ------
 Please see the [Call for papers](https://realworldml.github.io/neurips2023/cfp/) for submission instructions.
 * **Submission deadline:** 4 October 2023, 11:59 PM (AoE time)
-* **Notification of acceptance:** 25 October 2023, 11:59 PM (AoE time)
+* **Notification of acceptance:** 26-27 October 2023, 11:59 PM (AoE time)
 
 **Best Student Paper Award:** A *best student paper award*, worth **1000 USD**, will be awarded to the best paper selected by a reviewing committee.
 
