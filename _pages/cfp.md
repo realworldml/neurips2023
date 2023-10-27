@@ -13,7 +13,7 @@ Important Dates
 * **Reviewer deadline**: 25 October 2023 11:59 PM (AoE time)
 * **Author notification**: 26-27 October 2023 11:59 PM (AoE time)
 * **Lightning Talk deadline (spotlight talks)**: TBA
-* **Camera ready deadline**: TBA
+* **Camera ready deadline**: 9 December 2023
 * **Workshop day**: 16 December 2023
 
 Please reach out to the organizers via email: realml-workshop-organizers@googlegroups.com
