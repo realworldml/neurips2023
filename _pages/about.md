@@ -19,7 +19,7 @@ Invited Speakers
 ------
 * **[Mihaela van der Schaar](https://www.vanderschaar-lab.com/)**, Cambridge University.
 * **[Eytan Bakshy](https://eytan.github.io/)**, Meta Platforms, Inc.
-* **[Anna Goldie](https://www.annagoldie.com/)**, Stanford University and Anthropic.
+* **[Anna Goldie](https://www.annagoldie.com/)**, Google DeepMind and Stanford University.
 * **[Joel Paulson](https://cbe.osu.edu/joel-paulson-laboratory-advanced-optimization-and-control)**, The Ohio State University.
 * **[Emma Brunskill](https://cs.stanford.edu/people/ebrun/)**, Stanford University.
 * **[Nathan Kallus](https://nathankallus.com/)**, Cornell University and Netflix.
