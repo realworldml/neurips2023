@@ -26,6 +26,14 @@ Invited Speakers
 * **[Erika DeBenedictis](https://www.erikadebenedictis.com/)**, Francis Crick Institute.
 
 
+Info for Accepted Paper Authors
+------
+We are excited to see you at the workshop on December 16!
+* **Schedule:** Please see the full workshop schedule [on this page](https://realworldml.github.io/neurips2023/schedule/).
+* **Posters:** All accepted papers will have the chance to present their work as a poster. We have few requirements for posters, except that each should be under 4 feet per side.
+* **Spotlight Talks:** We have reached out to a small set of papers to give spotlight talks on the day of the workshop.
+
+
 Call for Submissions & Important Dates
 ------
 Please see the [Call for papers](https://realworldml.github.io/neurips2023/cfp/) for submission instructions.
