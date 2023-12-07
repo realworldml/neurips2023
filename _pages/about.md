@@ -31,7 +31,7 @@ Information for Accepted Paper Authors
 We are excited to see you at the workshop on December 16!
 * **Schedule:** Please see the full workshop schedule [on this page](https://realworldml.github.io/neurips2023/schedule/).
 * **Posters:** All accepted papers are invited to present their work as a poster! We have few requirements for posters, except that each should be under 4 feet per side.
-* **Poster Setup:** You can set up your poster on the morning of our workshop (8:00am - 8:30am CT).
+* **Poster setup** will take place on the morning of our workshop (8:00am-8:30am CT).
 * **Spotlight Talks:** We have reached out to a small set of papers to give spotlight talks on the day of the workshop.
 
 
