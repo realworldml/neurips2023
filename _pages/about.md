@@ -33,6 +33,7 @@ We are excited to see you at the workshop on December 16!
 * **Posters:** All accepted papers are invited to present their work as a poster! We have few requirements for posters, except that each should be under 4 feet per side.
 * **Poster setup** will take place on the morning of our workshop (8:00am-8:30am CT).
 * **Spotlight Talks:** We have reached out to a small set of papers to give spotlight talks on the day of the workshop.
+* **Camera Ready Papers:** Please submit your Camera Ready paper by December 9 on [OpenReview](https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/ReALML) (navigate to your paper, then click Edit > Camera Ready Revision). Formatting requirements are the same as the original submission.
 
 
 Call for Submissions & Important Dates
