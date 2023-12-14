@@ -57,3 +57,13 @@ Organizers
 * **[Zi Wang](https://ziw.mit.edu/)**, Google DeepMind.
 
 Please reach out to the organizers via email: realml-workshop-organizers@googlegroups.com
+
+
+Sponsors
+------
+Many thanks to our workshop sponsors!
+<p align="top">
+    <img src="files/sponsor-logos/google.png" width="24%">
+    &nbsp; &nbsp; &nbsp; &nbsp;
+    <img src="files/sponsor-logos/google.png" width="24%">
+</p>
