@@ -65,5 +65,5 @@ Many thanks to our workshop sponsors!
 <p align="top">
     <img src="files/sponsor-logos/google.png" width="24%">
     &nbsp; &nbsp; &nbsp; &nbsp;
-    <img src="files/sponsor-logos/google.png" width="24%">
+    <img src="files/sponsor-logos/meta.png" width="24%">
 </p>
