@@ -28,7 +28,7 @@ Invited Speakers
 
 Accepted Papers
 ------
-All papers that were accepted for presentation at the workshop can be found [here on
+All papers that were accepted for presentation at the workshop can be found [on
 OpenReview](https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/ReALML).
 
 
