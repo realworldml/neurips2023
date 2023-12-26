@@ -26,6 +26,12 @@ Invited Speakers
 * **[Erika DeBenedictis](https://www.erikadebenedictis.com/)**, Francis Crick Institute.
 
 
+Accepted Papers
+------
+All papers that were accepted for presentation at the workshop can be found [here on
+OpenReview](https://openreview.net/group?id=NeurIPS.cc/2023/Workshop/ReALML).
+
+
 Information for Accepted Paper Authors
 ------
 We are excited to see you at the workshop on December 16!
